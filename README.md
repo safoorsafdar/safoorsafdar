@@ -20,8 +20,9 @@ My name is Safoor Safdar 👨‍💻 and I&apos;m a cloud solution architect and
 🚀 In the short run, my objective is to build solid experience in cloud/software architect, cloud infrastructure, site reliability, and software development.
 
 
-😇 I am always open to new ideas and opportunities. You can learn more about me on my [Website](https://safoorsafdar.com) and [LinkedIn](https://linkedin.com/in/safoorsafdar) or reach out to me directly at talk@safoorsafdar.com
+✨ I started a blog to share my cloud engineer learning and experience, including AWS, Docker, Kubernetes, Monitoring, Observability and Process Automation.
 
+😇 I am always open to discuss new ideas and opportunities. You can learn more about me and recent writing on my [Website](https://safoorsafdar.com/) and [LinkedIn](https://linkedin.com/in/safoorsafdar) or reach out to me directly at talk@safoorsafdar.com
 
 
 <!--
