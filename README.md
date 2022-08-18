@@ -1,4 +1,4 @@
-## 👋 Hi, I&apos;m Safoor 
+## 👋 Hi, 
 
 My name is Safoor Safdar 👨‍💻 and I&apos;m a cloud solution architect and consultant DevOps.
 
