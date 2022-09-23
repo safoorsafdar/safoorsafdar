@@ -1,9 +1,7 @@
-## 👋 Hi, 
+## 👋 Hi, I'm Safoor Safdar!
 
-My name is Safoor Safdar 👨‍💻 and I&apos;m a cloud solution architect and consultant DevOps.
+A site reliability engineer in the DevOps world with a passion for architecting cloud solutions.
 
-
-🔥🔥 Cloud Solution Architect / Consultant DevOps
 
 - Working experience on `AWS`, `Azure` and `on-premises`, architect highly available, scalable, and fault-tolerant architectural solutions for clients to help them migrate successfully from current infrastructure (on-premise) to AWS cloud or set up from scratch on AWS.
 - Highly motivated and committed Consultant DevOps experienced in Automating, Configuring, and deploying instances on AWS and on-premises.
