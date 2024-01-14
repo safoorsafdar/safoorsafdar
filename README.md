@@ -13,7 +13,7 @@ A site reliability engineer in the DevOps world with a passion for architecting 
 
 🚀 In the short run, my objective is to build solid experience in cloud/software architect, cloud infrastructure, site reliability, and software development.
 
-✨ I started a blog(https://safoorsafdar.com) to share my cloud engineer learning and experience, including AWS, Docker, Kubernetes, Monitoring, Observability and Process Automation.
+✨ I started a blog [safoorsafdar.com](https://safoorsafdar.com?utm_source=github&utm_medium=profile&utm_id=direct-reach) to share my cloud engineer learning and experience, including AWS, Docker, Kubernetes, Monitoring, Observability and Process Automation.
 
 
 😇 I am always open to new ideas and opportunities. You can learn more about me on [GitHub](https://github.com/safoorsafdar) or [LinkedIn](https://linkedin.com/in/safoorsafdar) or reach out to me directly at me@safoorsafdar.com
